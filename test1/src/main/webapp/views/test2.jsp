@@ -8,6 +8,6 @@
 </head>
 <body>
 <%--테스트중 --%>
-<div><p>야후</p></div>
+<div><p>팀플테스트</p></div>
 </body>
 </html>
